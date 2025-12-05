@@ -1,4 +1,4 @@
-name = "yeiwangnav"
+name = "ainav"
 compatibility_date = "2024-11-11"
 compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = ".vercel/output/static"
@@ -8,6 +8,6 @@ GITHUB_CLIENT_ID = "Ov23lierSMY0K9ai3GhM"
 GITHUB_OWNER = "xxkln"
 GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://yeiwangnav.wyjai.workers.dev"
-NEXT_PUBLIC_API_URL="https://yeiwangnav.wyjai.workers.dev/"
+NEXTAUTH_URL = "https://ainav-7jr.pages.dev/api/auth"
+NEXT_PUBLIC_API_URL="https://ainav-7jr.pages.dev/"
 
