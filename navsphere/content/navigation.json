@@ -224,6 +224,14 @@
               "href": "https://aistudio.google.com/prompts/new_chat",
               "description": "Google AI Studio",
               "icon": "/assets/favicon_1764762488719.png"
+            },
+            {
+              "id": "item-1764920931474",
+              "enabled": true,
+              "title": "Nano Banana Pro进阶助手—动画大丸家",
+              "href": "https://app-7rvenawrv3sx.appmiaoda.com/",
+              "description": "用AI将灵感变为画作、视频，与全球创作者分享你的独特艺术。",
+              "icon": "/assets/favicon_1764920916225.png"
             }
           ]
         },
