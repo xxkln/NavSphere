@@ -1438,6 +1438,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1764920802426",
+      "title": "文章推荐",
+      "icon": "Folder",
+      "description": "推荐记录一些读过的，不错的文章",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
