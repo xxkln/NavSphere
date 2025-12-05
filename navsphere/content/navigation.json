@@ -1453,7 +1453,16 @@
       "icon": "Folder",
       "description": "推荐记录一些读过的，不错的文章",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "item-1764920993922",
+          "enabled": true,
+          "title": "阿里开源Z-Image模型，无限免费，实测对比Nano Banana Pro",
+          "href": "https://mp.weixin.qq.com/s/Du-WD64CdbDdA0HF75VezQ",
+          "description": "访问 mp.weixin.qq.com",
+          "icon": "/assets/favicon_1764920985062.png"
+        }
+      ],
       "subCategories": []
     }
   ]
